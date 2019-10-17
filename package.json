@@ -1,0 +1,10 @@
+{
+  "name": "admin-seeyou-present",
+  "version": "0.0.1",
+  "description": "seeyou-app preset for vue-cli",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "isbinaryfile": "^4.0.2"
+  }
+}
