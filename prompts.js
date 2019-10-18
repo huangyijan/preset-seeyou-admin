@@ -10,6 +10,6 @@ module.exports = [{
         value: 'None'
     }
     ],
-    default: 'None'
+    default: 'default'
 }
 ]
