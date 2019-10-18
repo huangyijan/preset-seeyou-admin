@@ -47,7 +47,7 @@ module.exports = (api, options, rootOptions) => {
         })
         const template = options.repo || options.template
 
-        const base = 'src'
+        const base = '/'
         await generate(path.resolve(__dirname, './template/default'), files, base, rootOptions)
     })
 }
